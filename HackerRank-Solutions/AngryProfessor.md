@@ -3,6 +3,6 @@
 
 
 <figure class="video_container">
-<iframe src="https://www.hackerrank.com/challenges/angry-professor/problem?embedded=true"></iframe>
+<iframe src="https://www.hackerrank.com/challenges/angry-professor/problem"></iframe>
 </figure>
 
